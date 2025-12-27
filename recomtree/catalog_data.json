@@ -1,0 +1,529 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "totalRatingSum": 110.4,
+              "name": "The Dark Knight",
+              "rating": 9.2,
+              "type": "movie",
+              "ratingCount": 12
+            },
+            {
+              "totalRatingSum": 132,
+              "name": "Avengers: Endgame",
+              "rating": 8.8,
+              "type": "movie",
+              "ratingCount": 15
+            },
+            {
+              "totalRatingSum": 85,
+              "name": "Spider-Man: No Way Home",
+              "rating": 8.5,
+              "type": "movie",
+              "ratingCount": 10
+            }
+          ],
+          "name": "Superhero Movies",
+          "type": "genre"
+        },
+        {
+          "children": [
+            {
+              "totalRatingSum": 97.9,
+              "name": "John Wick",
+              "rating": 8.9,
+              "type": "movie",
+              "ratingCount": 11
+            },
+            {
+              "totalRatingSum": 133,
+              "name": "Mad Max: Fury Road",
+              "rating": 9.5,
+              "type": "movie",
+              "ratingCount": 14
+            }
+          ],
+          "name": "Thrillers",
+          "type": "genre"
+        }
+      ],
+      "name": "Action",
+      "type": "genre"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "totalRatingSum": 196,
+              "name": "The Lord of the Rings: The Fellowship of the Ring",
+              "rating": 9.8,
+              "type": "movie",
+              "ratingCount": 20
+            },
+            {
+              "totalRatingSum": 113.1,
+              "name": "Harry Potter and the Prisoner of Azkaban",
+              "rating": 8.7,
+              "type": "movie",
+              "ratingCount": 13
+            },
+            {
+              "totalRatingSum": 81,
+              "name": "Pan's Labyrinth",
+              "rating": 9,
+              "type": "movie",
+              "ratingCount": 9
+            }
+          ],
+          "name": "Fantasy Adventure",
+          "type": "genre"
+        },
+        {
+          "children": [
+            {
+              "totalRatingSum": 145.6,
+              "name": "Indiana Jones: Raiders of the Lost Ark",
+              "rating": 9.1,
+              "type": "movie",
+              "ratingCount": 16
+            },
+            {
+              "totalRatingSum": 92.4,
+              "name": "The Revenant",
+              "rating": 8.4,
+              "type": "movie",
+              "ratingCount": 11
+            }
+          ],
+          "name": "Historical Adventure",
+          "type": "genre"
+        }
+      ],
+      "name": "Adventure",
+      "type": "genre"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "totalRatingSum": 124.6,
+              "name": "Toy Story",
+              "rating": 8.9,
+              "type": "movie",
+              "ratingCount": 14
+            },
+            {
+              "totalRatingSum": 110.4,
+              "name": "Inside Out",
+              "rating": 9.2,
+              "type": "movie",
+              "ratingCount": 12
+            },
+            {
+              "totalRatingSum": 141,
+              "name": "Spider-Man: Into the Spider-Verse",
+              "rating": 9.4,
+              "type": "movie",
+              "ratingCount": 15
+            }
+          ],
+          "name": "Computer Animation",
+          "type": "genre"
+        },
+        {
+          "children": [
+            {
+              "totalRatingSum": 172.8,
+              "name": "Spirited Away",
+              "rating": 9.6,
+              "type": "movie",
+              "ratingCount": 18
+            },
+            {
+              "totalRatingSum": 158.1,
+              "name": "The Lion King",
+              "rating": 9.3,
+              "type": "movie",
+              "ratingCount": 17
+            }
+          ],
+          "name": "Traditional Animation",
+          "type": "genre"
+        }
+      ],
+      "name": "Animation",
+      "type": "genre"
+    },
+    {
+      "children": [
+        {
+          "children": [{
+            "totalRatingSum": 152,
+            "name": "Parasite",
+            "rating": 9.5,
+            "type": "movie",
+            "ratingCount": 16
+          }],
+          "name": "Dark Comedy",
+          "type": "genre"
+        },
+        {
+          "children": [
+            {
+              "totalRatingSum": 86,
+              "name": "The Grand Budapest Hotel",
+              "rating": 8.6,
+              "type": "movie",
+              "ratingCount": 10
+            },
+            {
+              "totalRatingSum": 70.2,
+              "name": "Crazy, Stupid, Love",
+              "rating": 7.8,
+              "type": "movie",
+              "ratingCount": 9
+            }
+          ],
+          "name": "Romantic Comedy",
+          "type": "genre"
+        }
+      ],
+      "name": "Comedy",
+      "type": "genre"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "totalRatingSum": 200,
+              "name": "Planet Earth II",
+              "rating": 10,
+              "type": "movie",
+              "ratingCount": 20
+            },
+            {
+              "totalRatingSum": 145.5,
+              "name": "Our Planet",
+              "rating": 9.7,
+              "type": "movie",
+              "ratingCount": 15
+            }
+          ],
+          "name": "Nature Documentary",
+          "type": "genre"
+        },
+        {
+          "children": [{
+            "totalRatingSum": 105.6,
+            "name": "Making a Murderer",
+            "rating": 8.8,
+            "type": "movie",
+            "ratingCount": 12
+          }],
+          "name": "True Crime",
+          "type": "genre"
+        }
+      ],
+      "name": "Documentary",
+      "type": "genre"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "totalRatingSum": 250,
+              "name": "The Shawshank Redemption",
+              "rating": 10,
+              "type": "movie",
+              "ratingCount": 25
+            },
+            {
+              "totalRatingSum": 163.8,
+              "name": "Forrest Gump",
+              "rating": 9.1,
+              "type": "movie",
+              "ratingCount": 18
+            }
+          ],
+          "name": "Contemporary",
+          "type": "genre"
+        },
+        {
+          "children": [
+            {
+              "totalRatingSum": 134.4,
+              "name": "Schindler's List",
+              "rating": 9.6,
+              "type": "movie",
+              "ratingCount": 14
+            },
+            {
+              "totalRatingSum": 124.4,
+              "name": "Gladiator",
+              "rating": 8.885714285714286,
+              "type": "movie",
+              "ratingCount": 14
+            }
+          ],
+          "name": "Historical",
+          "type": "genre"
+        }
+      ],
+      "name": "Drama",
+      "type": "genre"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "totalRatingSum": 138,
+              "name": "The Shining",
+              "rating": 9.2,
+              "type": "movie",
+              "ratingCount": 15
+            },
+            {
+              "totalRatingSum": 82,
+              "name": "Hereditary",
+              "rating": 8.2,
+              "type": "movie",
+              "ratingCount": 10
+            },
+            {
+              "totalRatingSum": 161.5,
+              "name": "The Silence of the Lambs",
+              "rating": 9.5,
+              "type": "movie",
+              "ratingCount": 17
+            }
+          ],
+          "name": "Psychological Horror",
+          "type": "genre"
+        },
+        {
+          "children": [
+            {
+              "totalRatingSum": 102,
+              "name": "The Conjuring",
+              "rating": 8.5,
+              "type": "movie",
+              "ratingCount": 12
+            },
+            {
+              "totalRatingSum": 95.7,
+              "name": "A Quiet Place",
+              "rating": 8.7,
+              "type": "movie",
+              "ratingCount": 11
+            }
+          ],
+          "name": "Supernatural Horror",
+          "type": "genre"
+        }
+      ],
+      "name": "Horror",
+      "type": "genre"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "totalRatingSum": 142.4,
+              "name": "Titanic",
+              "rating": 8.9,
+              "type": "movie",
+              "ratingCount": 16
+            },
+            {
+              "totalRatingSum": 99.6,
+              "name": "The Notebook",
+              "rating": 8.3,
+              "type": "movie",
+              "ratingCount": 12
+            }
+          ],
+          "name": "Classic Romance",
+          "type": "genre"
+        },
+        {
+          "children": [
+            {
+              "totalRatingSum": 126,
+              "name": "La La Land",
+              "rating": 9,
+              "type": "movie",
+              "ratingCount": 14
+            },
+            {
+              "totalRatingSum": 101.2,
+              "name": "Eternal Sunshine of the Spotless Mind",
+              "rating": 9.2,
+              "type": "movie",
+              "ratingCount": 11
+            }
+          ],
+          "name": "Modern Romance",
+          "type": "genre"
+        }
+      ],
+      "name": "Romance",
+      "type": "genre"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "totalRatingSum": 96.8,
+              "name": "Blade Runner 2049",
+              "rating": 8.8,
+              "type": "movie",
+              "ratingCount": 11
+            },
+            {
+              "totalRatingSum": 145.6,
+              "name": "The Matrix",
+              "rating": 9.1,
+              "type": "movie",
+              "ratingCount": 16
+            }
+          ],
+          "name": "Dystopian",
+          "type": "genre"
+        },
+        {
+          "children": [
+            {
+              "totalRatingSum": 167.4,
+              "name": "Interstellar",
+              "rating": 9.3,
+              "type": "movie",
+              "ratingCount": 18
+            },
+            {
+              "totalRatingSum": 192,
+              "name": "Star Wars: Empire Strikes Back",
+              "rating": 9.6,
+              "type": "movie",
+              "ratingCount": 20
+            }
+          ],
+          "name": "Space Opera",
+          "type": "genre"
+        }
+      ],
+      "name": "Science Fiction",
+      "type": "genre"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "totalRatingSum": 126,
+              "name": "The Departed",
+              "rating": 9,
+              "type": "movie",
+              "ratingCount": 14
+            },
+            {
+              "totalRatingSum": 127.69999999999999,
+              "name": "Heat",
+              "rating": 9.12142857142857,
+              "type": "movie",
+              "ratingCount": 14
+            }
+          ],
+          "name": "Crime Thriller",
+          "type": "genre"
+        },
+        {
+          "children": [
+            {
+              "totalRatingSum": 139.5,
+              "name": "Se7en",
+              "rating": 9.3,
+              "type": "movie",
+              "ratingCount": 15
+            },
+            {
+              "totalRatingSum": 104.4,
+              "name": "Gone Girl",
+              "rating": 8.7,
+              "type": "movie",
+              "ratingCount": 12
+            },
+            {
+              "totalRatingSum": 99,
+              "name": "Prisoners",
+              "rating": 9,
+              "type": "movie",
+              "ratingCount": 11
+            }
+          ],
+          "name": "Mystery Thriller",
+          "type": "genre"
+        }
+      ],
+      "name": "Thriller",
+      "type": "genre"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "totalRatingSum": 148.8,
+              "name": "1917",
+              "rating": 9.3,
+              "type": "movie",
+              "ratingCount": 16
+            },
+            {
+              "totalRatingSum": 86,
+              "name": "Black Hawk Down",
+              "rating": 8.6,
+              "type": "movie",
+              "ratingCount": 10
+            }
+          ],
+          "name": "Modern Warfare",
+          "type": "genre"
+        },
+        {
+          "children": [
+            {
+              "totalRatingSum": 184.3,
+              "name": "Saving Private Ryan",
+              "rating": 9.7,
+              "type": "movie",
+              "ratingCount": 19
+            },
+            {
+              "totalRatingSum": 143.79999999999998,
+              "name": "Dunkirk",
+              "rating": 8.987499999999999,
+              "type": "movie",
+              "ratingCount": 16
+            }
+          ],
+          "name": "World War II",
+          "type": "genre"
+        }
+      ],
+      "name": "War",
+      "type": "genre"
+    }
+  ],
+  "name": "Movies Catalog",
+  "type": "genre"
+}
